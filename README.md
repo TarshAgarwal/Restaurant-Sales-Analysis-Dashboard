@@ -1,1 +1,1 @@
-# Restaurant-Sales-Analysis-Dashboard
+Created a comprehensive dashboard to analyze restaurant sales data, including revenue trends, customer preferences, and product performance. Utilized the sales data and created interactive visualizations in Power BI to drive strategic decision-making and optimize menu offerings.
